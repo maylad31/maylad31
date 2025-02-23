@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm [Mayank Laddha]
+## 👋 Hey there! I'm Mayank Laddha
 
 🚀 **Machine Learning Engineer | Applied AI**
 
