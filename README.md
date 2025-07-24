@@ -1,5 +1,7 @@
 I'm a **Machine Learning Engineer** with **5+ years** of experience in **Applied AI**, working across **Generative AI, Natural Language Processing (NLP), and Computer Vision (CV)**. I also have experience in **backend development**, primarily using **FastAPI**, in the **context of building AI-driven applications**. I have mostly worked with early stage startups. For information regarding my professional projects, do check my linkedin. Here you can find projects or things that I try when I am free.
 
-For information regarding my professional projects: <a href="https://www.linkedin.com/in/mayankladdha31/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+For information regarding my professional projects:
+
+<a href="https://www.linkedin.com/in/mayankladdha31/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
