@@ -4,7 +4,7 @@ For information regarding my professional projects:
 
 <a href="https://www.linkedin.com/in/mayankladdha31/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-I also like to share my knowledge. I have contributed some cookbooks to haystack apart from writing posts on different platforms.
+I also like to share my knowledge. I have contributed a couple of cookbooks to haystack(deepset).
 
 https://haystack.deepset.ai/cookbook/ui_ux_reviewer_agent
 
